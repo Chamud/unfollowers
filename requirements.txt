@@ -1,0 +1,4 @@
+InstagramAPI
+datetime
+moviepy
+python-dotenv
